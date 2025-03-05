@@ -18,7 +18,7 @@ AI Vision Block is a Gutenberg block that generates AI-powered images from text 
 1. **Download the Plugin:**  
    - Clone the repository:  
      ```sh
-     git clone https://github.com/your-username/ai-vision-block.git
+     git clone https://github.com/mahmood-asadi/ai-vision-block.git
      ```
    - Or download the latest release as a `.zip` file.  
 
@@ -36,7 +36,7 @@ AI Vision Block is a Gutenberg block that generates AI-powered images from text 
 
 ### Clone the repo  
 ```sh
-git clone https://github.com/your-username/ai-vision-block.git
+git clone https://github.com/mahmood-asadi/ai-vision-block.git
 cd ai-vision-block
 ```
 
@@ -57,7 +57,7 @@ npm run start
 
 ## 🤝 Contributing  
 
-Pull requests are welcome! If you find a bug or have a feature request, feel free to open an issue.  
+Pull requests are welcome! Feel free to open an issue if you find a bug or have a feature request.  
 
 ## 📜 License  
 
