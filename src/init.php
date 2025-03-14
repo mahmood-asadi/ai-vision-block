@@ -3,8 +3,8 @@
  * Plugin Name: AI Vision Block
  * Description: A custom block for displaying AI-generated images.
  * Version: 1.0.0
- * Author: FLAREX
- * Author URI: https://flarex.agency/
+ * Author: Mahmood Asadi
+ * Author Email: asadi.pub@gmail.com
  * License: GPL2+
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: ai-vision-block

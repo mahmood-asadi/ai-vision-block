@@ -8,7 +8,7 @@
         "start": "wp-scripts start",
         "packages-update": "wp-scripts packages-update"
     },
-    "author": "FLAREX",
+    "author": "Mahmood Asadi",
     "license": "GPL-2.0-or-later",
     "devDependencies": {
         "@pollinations/react": "^2.0.7",

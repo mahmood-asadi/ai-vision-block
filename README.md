@@ -64,5 +64,3 @@ Pull requests are welcome! Feel free to open an issue if you find a bug or have 
 This project is licensed under the [GPL-2.0+](https://www.gnu.org/licenses/gpl-2.0.html).  
 
 ---
-
-🔥 Created with passion by **FLAREX** 🚀  https://flarex.agency

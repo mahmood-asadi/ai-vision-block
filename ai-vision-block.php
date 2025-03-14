@@ -2,8 +2,8 @@
 /**
  * Plugin Name: AI Vision Block
  * Description: A block that generates an image using Pollinations API and saves it to the media library.
- * Author: FLAREX
- * Author URI: https://flarex.agency
+ * Author: Mahmood Asadi
+ * Author Email: asadi.pub@gmail.com
  * Version: 1.0.0
  * License: GPL2+
  * License URI: https://www.gnu.org/licenses/gpl-2.0.txt
