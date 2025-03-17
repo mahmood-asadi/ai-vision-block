@@ -1,8 +1,8 @@
-=== Ai Vision Block ===
+=== AI Vision Block ===
 Contributors: mahmoodasadi  
 Tags: AI, image, block, Gutenberg, Pollinations  
 Requires at least: 5.8  
-Tested up to: 6.7  
+Tested up to: 6.7
 Requires PHP: 7.0  
 Stable tag: 1.0.0  
 License: GPL-2.0+  
@@ -27,6 +27,16 @@ AI Vision Block is a custom Gutenberg block that allows you to generate images u
 2. Activate the plugin through the "Plugins" menu in WordPress.
 3. Go to the block editor and add the "AI Vision Block" to your post or page.
 4. Enter a prompt and click "Generate Image" to get an AI-generated image.
+
+== External services ==
+
+This plugin connects to an API to generate AI-based images. The service is used to process the user's prompt and return a generated image to be displayed in the WordPress post or page.
+
+It sends the user's prompt, along with the width and height parameters for image resolution, every time the user generates an image.
+
+This service is provided by "Pollinations AI":
+- Terms of use & Privacy policy: https://pollinations.ai/terms
+
 
 == Frequently Asked Questions ==
 
