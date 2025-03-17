@@ -7,7 +7,7 @@ Requires PHP: 7.0
 Stable tag: 1.0.0  
 License: GPL-2.0+  
 License URI: https://www.gnu.org/licenses/gpl-2.0.html  
-Donate link: https://www.paypal.me/asadimahmood
+Donate link: https://www.paypal.com/paypalme/asadimahmood
 
 Generate AI images using Pollinations API directly from the WordPress block editor and save them to the Media Library.
 
